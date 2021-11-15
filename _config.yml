@@ -6,4 +6,10 @@ author: fluffydogcatrat
 language: zh-CN
 timezone: Asia/Shanghai
 
+# Directory
+source_dir: source
+skip_render:
+  - README.md
+
+# Extensions
 theme: jekyll-theme-minimal
